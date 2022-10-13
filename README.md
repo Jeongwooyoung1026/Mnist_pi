@@ -8,4 +8,5 @@ export DISPLAY="localhost:10.0” 로 mobaxterm 환경에서 GUI 이미지를 �
 파이카메라 Mnist 구현을 위한 영상
 [https://webnautes.tistory.com/1384](https://webnautes.tistory.com/1384)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29ef73c5-fe15-4012-a374-82bcb66f7df3/Untitled.png)
+
+![image](https://user-images.githubusercontent.com/101693311/195550625-9ad8e82b-487b-45b6-8274-8d5ea8c75912.png)
